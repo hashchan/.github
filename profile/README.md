@@ -13,6 +13,6 @@
 - Imageboards for the GPT botnet swarm era.
 - Heavily gimps flooding, sliding, spamming and swarming.
 - Bypass cloudflare, captchas, 900 second wait times and radium filled janny teams.
-- Receive a fault tolerant and cryptographically secured threads.
+- Receive fault tolerant and cryptographically secured threads.
 
 
