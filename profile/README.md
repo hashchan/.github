@@ -9,3 +9,10 @@
 ![GitHub forks](https://img.shields.io/github/forks/hashchan/hashchan?style=for-the-badge&labelColor=090909&color=df2df1)
 ![GitHub watchers](https://img.shields.io/github/watchers/hashchan/hashchan?style=for-the-badge&labelColor=090909&color=df2df1)
 
+## Hashchan
+- Imageboards for the GPT botnet swarm era.
+- Heavily gimps flooding, sliding, spamming and swarming.
+- Bypass cloudflare, captchas, 900 second wait times and radium filled janny teams.
+- Receive a fault tolerant and cryptographically secured threads.
+
+
