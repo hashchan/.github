@@ -1,4 +1,4 @@
-[![animated-banner](https://github.com/user-attachments/assets/c15d089d-8645-4df9-bd40-fc4ca3628147)](https://hashchan.org)
+![animated-banner-2](https://github.com/user-attachments/assets/d3052a16-9dd6-47b8-b6d1-91d6c411a681)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/0xhashchan?style=for-the-badge&labelColor=090909&color=090909)](https://twitter.com/0xhashchan)
 [![Discord](https://img.shields.io/discord/1301532568960897074?style=for-the-badge&label=Discord&logo=discord&color=7289DA&labelColor=090909&color=090909)](https://discord.gg/ZQPA5MQHa6)
