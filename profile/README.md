@@ -16,3 +16,4 @@
 - Receive fault tolerant and cryptographically secured threads.
 
 
+![4chan-banner-emojis](https://github.com/user-attachments/assets/6cecbc73-eab7-41cd-b602-c8a2a4b38152)
